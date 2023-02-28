@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "node-addon",
+      "includePath": [
+        "/home/allawesome497/Documents/filter/api/node/node_modules/node-addon-api",
+        "/home/allawesome497/.cache/node-gyp/14.15.5/include/node",
+        "/home/allawesome497/.cache/node-gyp/14.15.5/src",
+        "/home/allawesome497/.cache/node-gyp/14.15.5/deps/openssl/config",
+        "/home/allawesome497/.cache/node-gyp/14.15.5/deps/openssl/openssl/include",
+        "/home/allawesome497/.cache/node-gyp/14.15.5/deps/uv/include",
+        "/home/allawesome497/.cache/node-gyp/14.15.5/deps/zlib",
+        "/home/allawesome497/.cache/node-gyp/14.15.5/deps/v8/include"
+      ],
+      "intelliSenseMode": "linux-gcc-x64",
+      "compilerPath": "/usr/bin/clang",
+      "cStandard": "c17",
+      "cppStandard": "${default}"
+    }
+  ],
+  "version": 4
+}

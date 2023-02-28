@@ -1,0 +1,2115 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"decl",
+				"Declarations"
+			],
+			[
+				"pr",
+				"Println"
+			],
+			[
+				"net",
+				"networks"
+			],
+			[
+				"input",
+				"inputRed"
+			],
+			[
+				"inp",
+				"InputComponent"
+			],
+			[
+				"sec",
+				"SingleConnectorBase"
+			],
+			[
+				"Po",
+				"Position"
+			],
+			[
+				"connec",
+				"connectOutput"
+			],
+			[
+				"gett",
+				"getTickerNetwork"
+			],
+			[
+				"get",
+				"getTickerNetwork"
+			],
+			[
+				"output",
+				"outputGreen"
+			],
+			[
+				"outpu",
+				"outputRed"
+			],
+			[
+				"Pl",
+				"plan"
+			],
+			[
+				"c",
+				"cells"
+			],
+			[
+				"create",
+				"createNet"
+			],
+			[
+				"Op",
+				"Operator"
+			],
+			[
+				"mul",
+				"ArithmeticOperationMultiply"
+			],
+			[
+				"netw",
+				"Network"
+			],
+			[
+				"g",
+				"getTickerNetwork"
+			],
+			[
+				"conne",
+				"connectInput"
+			],
+			[
+				"con",
+				"connectOutput"
+			],
+			[
+				"O",
+				"output"
+			],
+			[
+				"In",
+				"InputComponent"
+			],
+			[
+				"Inp",
+				"InputComponent"
+			],
+			[
+				"Inpu",
+				"InputComponent"
+			],
+			[
+				"arith",
+				"ArithmeticOperationMultiply"
+			],
+			[
+				"out",
+				"outputRed"
+			],
+			[
+				"ou",
+				"outputGreen"
+			],
+			[
+				"crea",
+				"createNet"
+			],
+			[
+				"Compon",
+				"ComponentInput"
+			],
+			[
+				"conn",
+				"connectOutput"
+			],
+			[
+				"rea",
+				"readCell"
+			],
+			[
+				"vA",
+				"Variable"
+			],
+			[
+				"ne",
+				"Network"
+			],
+			[
+				"cre",
+				"createNet"
+			],
+			[
+				"connect",
+				"connectInput"
+			],
+			[
+				"Operator",
+				"ArithmeticOperationOr"
+			],
+			[
+				"Com",
+				"Component"
+			],
+			[
+				"cr",
+				"createSubnet"
+			],
+			[
+				"add",
+				"addInputs"
+			],
+			[
+				"Comparator",
+				"ComparatorEq"
+			],
+			[
+				"nex",
+				"nextCellID"
+			],
+			[
+				"Compar",
+				"ComparatorEq"
+			],
+			[
+				"se",
+				"secondaryInput"
+			],
+			[
+				"ArithmeticOperato",
+				"ArithmeticOperationAdd"
+			],
+			[
+				"inspect",
+				"inspectNet"
+			],
+			[
+				"fi",
+				"outputFixed"
+			],
+			[
+				"Comparato",
+				"ComparatorNe"
+			],
+			[
+				"Ou",
+				"output"
+			],
+			[
+				"sign",
+				"signals"
+			],
+			[
+				"prin",
+				"Println"
+			],
+			[
+				"pla",
+				"plan"
+			],
+			[
+				"arithmetic",
+				"Arithmetic{}"
+			],
+			[
+				"nets",
+				"nets = append(nets, )"
+			],
+			[
+				"Arithm",
+				"ArithmeticConditions"
+			],
+			[
+				"netwo",
+				"Network"
+			],
+			[
+				"rin",
+				"ringIdx"
+			],
+			[
+				"pl",
+				"place"
+			],
+			[
+				"getnext",
+				"getNext2x1"
+			],
+			[
+				"place",
+				"placed"
+			],
+			[
+				"ring",
+				"ringIdx"
+			],
+			[
+				"Dire",
+				"DirectionNorth"
+			],
+			[
+				"Du",
+				"DualConnectorsBase"
+			],
+			[
+				"Entity",
+				"EntityConnector"
+			],
+			[
+				"Pr",
+				"Primary"
+			],
+			[
+				"write",
+				"WriteString"
+			],
+			[
+				"Write",
+				"WriteString"
+			],
+			[
+				"b",
+				"Builder"
+			],
+			[
+				"func",
+				"func(...) {}"
+			],
+			[
+				"Area",
+				"RingAreaLeft"
+			],
+			[
+				"RingAreaBot",
+				"RingAreaBottomRight"
+			],
+			[
+				"RingAreaBottom",
+				"RingAreaBottomRight"
+			],
+			[
+				"Bottom",
+				"RingAreaBottomLeft"
+			],
+			[
+				"ringArea",
+				"RingAreaBottom"
+			],
+			[
+				"RingArea",
+				"RingAreaRight"
+			],
+			[
+				"fun",
+				"func(...) {}"
+			],
+			[
+				"Direction",
+				"DirectionWest"
+			],
+			[
+				"Direc",
+				"DirectionEast"
+			],
+			[
+				"Inspect",
+				"InspectCustom"
+			],
+			[
+				"Dec",
+				"DeciderControlBehavior{}"
+			],
+			[
+				"Si",
+				"Signal"
+			],
+			[
+				"Ar",
+				"ArithmeticInputs"
+			],
+			[
+				"ArithmeticC",
+				"ArithmeticCombinatorEntity{}"
+			],
+			[
+				"Pos",
+				"Position"
+			],
+			[
+				"was",
+				"wasPlacedVertical"
+			],
+			[
+				"shoul",
+				"shouldBreak"
+			],
+			[
+				"f",
+				"func(...) {}"
+			],
+			[
+				"Shi",
+				"shiftX"
+			],
+			[
+				"Flo",
+				"Floor"
+			],
+			[
+				"po",
+				"Pos"
+			],
+			[
+				"p",
+				"Pos"
+			],
+			[
+				"Is",
+				"IsZero"
+			],
+			[
+				"num",
+				"Number"
+			],
+			[
+				"N",
+				"Neighbors"
+			],
+			[
+				"insp",
+				"Inspect"
+			],
+			[
+				"cl",
+				"Close"
+			],
+			[
+				"B",
+				"DoLargeBuild"
+			],
+			[
+				"Robo",
+				"RoboportEntity"
+			],
+			[
+				"plac",
+				"place"
+			],
+			[
+				"Bl",
+				"BlueprintIcon"
+			],
+			[
+				"IC",
+				"Icons"
+			],
+			[
+				"New",
+				"NewEncoder"
+			],
+			[
+				"stations",
+				"stations = append(stations, )"
+			],
+			[
+				"Shif",
+				"shift"
+			],
+			[
+				"S",
+				"shiftY"
+			],
+			[
+				"Nei",
+				"Neighbors = append(o.Neighbors, )"
+			],
+			[
+				"nei",
+				"Neighbors = append(s.Neighbors, )"
+			],
+			[
+				"i",
+				"isTopOrBottom"
+			],
+			[
+				"Bluepr",
+				"BlueprintIcon"
+			],
+			[
+				"mar",
+				"Marshaler"
+			],
+			[
+				"Clos",
+				"Close().Error"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"subs",
+				"SubstationEntity{}"
+			],
+			[
+				"shif",
+				"shiftY"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"elem",
+				"Elem().Method"
+			],
+			[
+				"typ",
+				"TypeOf"
+			],
+			[
+				"err",
+				"Errorf"
+			],
+			[
+				"Ro",
+				"roboportDistance"
+			],
+			[
+				"robo",
+				"roboportDistance"
+			],
+			[
+				"roboop",
+				"roboportDistance"
+			],
+			[
+				"Math",
+				"math.Abs"
+			],
+			[
+				"mak",
+				"make(Ring, 0)"
+			],
+			[
+				"mus",
+				"mustPlaceRoboports"
+			],
+			[
+				"must",
+				"mustPlaceSubstations"
+			],
+			[
+				"exp",
+				"expandDumb"
+			],
+			[
+				"iter",
+				"iterateStep"
+			],
+			[
+				"val",
+				"vals"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 180,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					9,
+					1,
+					"delete_word",
+					{
+						"forward": true
+					},
+					"AQAAAA0AAAAAAAAADQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"right_delete",
+					null,
+					"AQAAAA0AAAAAAAAADQAAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAACkAAAAAAAAAKgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAQFpA"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAACwAAAAAAAAALgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "settings"
+					},
+					"CAAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "L:"
+					},
+					"AgAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					2,
+					"left_delete",
+					null,
+					"AgAAADcAAAAAAAAANwAAAAAAAAABAAAAOjYAAAAAAAAANgAAAAAAAAABAAAATA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADcAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAADgAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAOgAAAAAAAAA6AAAAAAAAAAEAAAAJOgAAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAADwAAAAAAAAAPgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "LKSP"
+					},
+					"BAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEAAAAAAAAAAQAAAAAAAAAABAAAAUD8AAAAAAAAAPwAAAAAAAAABAAAAUz4AAAAAAAAAPgAAAAAAAAABAAAASw",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "SP"
+					},
+					"AgAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAEMAAAAAAAAARQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASgAAAAAAAAAAAAAARQAAAAAAAABFAAAAAAAAAAIAAAAJCUUAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAEgAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "gopls"
+					},
+					"BQAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAE8AAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFAAAAAAAAAAUQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAFEAAAAAAAAAUwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWgAAAAAAAAAAAAAAUwAAAAAAAABTAAAAAAAAAAMAAAAJCQlTAAAAAAAAAFcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"paste",
+					null,
+					"AQAAAFcAAAAAAAAAmAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"indent",
+					null,
+					"AQAAAJMAAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAwFZA"
+				],
+				[
+					64,
+					1,
+					"indent",
+					null,
+					"AQAAAHIAAAAAAAAAcwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAwF1A"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "LSSP-"
+					},
+					"BgAAAEkAAAAAAAAASgAAAAAAAAAAAAAAnAAAAAAAAACcAAAAAAAAAAQAAAAJCQkJSgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					3,
+					"left_delete",
+					null,
+					"AwAAAE0AAAAAAAAATQAAAAAAAAABAAAALUwAAAAAAAAATAAAAAAAAAABAAAAUEsAAAAAAAAASwAAAAAAAAABAAAAUw",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"insert",
+					{
+						"characters": "PO"
+					},
+					"AgAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEwAAAAAAAAATAAAAAAAAAABAAAATw",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAEwAAAAAAAAATQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": "gopls."
+					},
+					"BgAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAAB+AAAAAAAAAAAAAAB+AAAAAAAAAH8AAAAAAAAAAAAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gopls",
+				"Preferences: LSP-gopls Settings"
+			],
+			[
+				"lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"format",
+				"JsPrettier: Format Code"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"lsp:",
+				"LSP: Restart Server"
+			],
+			[
+				"restar",
+				"LSP: Restart Server"
+			],
+			[
+				"unfo",
+				"Code Folding: Unfold All"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold"
+			],
+			[
+				"pref",
+				"Preferences: Key Bindings"
+			],
+			[
+				"menu ",
+				"View: Toggle Menu"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"unf",
+				"Code Folding: Unfold All"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"jspre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"jsprett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"lsp:renam",
+				"LSP: Rename"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"ren",
+				"LSP: Rename"
+			],
+			[
+				"renam",
+				"LSP: Rename"
+			],
+			[
+				"rena",
+				"LSP: Rename"
+			],
+			[
+				"rename",
+				"LSP: Rename"
+			],
+			[
+				"rene",
+				"Rename File"
+			],
+			[
+				"jsprettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"unfol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"rest",
+				"LSP: Restart Server"
+			],
+			[
+				"remove",
+				"Package Control: Remove Repository"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Repository"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"preferences",
+				"Preferences: LSP Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"add resp",
+				"Package Control: Add Repository"
+			],
+			[
+				"lsp p",
+				"Preferences: LSP Settings"
+			],
+			[
+				"package c",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"debug",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"package control:remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"GoTools: Lint"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"enable langau",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"trouble",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"lsp:enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"enable language",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"key bind",
+				"Preferences: LSP Key Bindings"
+			],
+			[
+				"terrafo",
+				"Preferences: LSP-terraform Settings"
+			],
+			[
+				"forma",
+				"Set Syntax: Terraform (variables)"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"def",
+				"GoTools: Go to definition"
+			],
+			[
+				"file",
+				"File: Print"
+			],
+			[
+				"defin",
+				"GoTools: Go to definition"
+			],
+			[
+				"prefere",
+				"Preferences: LSP Settings"
+			],
+			[
+				"goim",
+				"GoImports"
+			],
+			[
+				"go:",
+				"Go: Get"
+			],
+			[
+				"lsp:res",
+				"LSP: Restart Server"
+			],
+			[
+				"go",
+				"GoTools: Format"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"view: toggle ",
+				"View: Toggle Side Bar"
+			],
+			[
+				"create fil",
+				"Package Control: Create Package File"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"resta",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp:form",
+				"LSP: Format File"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"lsp ",
+				"Preferences: LSP Settings"
+			],
+			[
+				"gofmt",
+				"GoTools: Format"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"size",
+				"UI: Customize Theme"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"distra",
+				"View: Toggle Distraction Free"
+			],
+			[
+				"view",
+				"View: Toggle Tabs"
+			],
+			[
+				"disabl",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"language",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"language ",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"select them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"SELECt them",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 138.0,
+		"history":
+		[
+			"reset_font_size",
+			"sublime.log_commands(False);",
+			"sublime.log_commands(True);",
+			"sublime.log_commands(true);"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/wade/Documents/filter"
+	],
+	"file_history":
+	[
+		"/home/wade/Documents/lang/o.js",
+		"/home/wade/Documents/lang/system-module-ideas",
+		"/home/wade/.config/sublime-text/Packages/User/tbd.sublime-syntax",
+		"/home/wade/Documents/lang/factorio/factorio.go",
+		"/home/wade/Documents/lang/factorio/blueprint.go",
+		"/home/wade/Documents/lang/out.bp",
+		"/home/wade/Documents/lang/thing.html",
+		"/home/wade/Documents/lang/t.b64",
+		"/run/media/wade/5021-0000/switch/dev.keys",
+		"/run/media/wade/5021-0000/switch/prod.keys",
+		"/home/wade/Downloads/segment-recovery-code.txt",
+		"/mnt/ext/Steam/steamapps/compatdata/275850/pfx/drive_c/users/steamuser/AppData/Roaming/HelloGames/NMS/st_76561198369882028/blah.json",
+		"/home/wade/Documents/dictionary.dev/data/sql/migrations/initial/up.sql",
+		"/home/wade/Documents/dictionary.dev/data/sql/migrations/initial/down.sql",
+		"/home/wade/Documents/dictionary.dev/tf/dev/.terraform/providers/registry.terraform.io/cyrilgdn/postgresql/1.16.0/linux_amd64/terraform-provider-postgresql_v1.16.0",
+		"/home/wade/Documents/dictionary.dev/js/edit.tsx",
+		"/home/wade/Documents/dictionary.dev/node_modules/@types/react/index.d.ts",
+		"/home/wade/Documents/dictionary.dev/script/.bin/dev-util",
+		"/home/wade/Documents/dictionary.dev/.bash-completions",
+		"/home/wade/Documents/dictionary.dev/node_modules/@types/react/global.d.ts",
+		"/home/wade/Documents/dictionary.dev/js/framework/types.ts",
+		"/home/wade/Documents/dictionary.dev/tsconfig.json",
+		"/home/wade/.config/sublime-text/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/home/wade/Documents/dictionary.dev/tf/dev/terraform.tfvars",
+		"/home/wade/Documents/dictionary.dev/tf/dev/providers.tf",
+		"/usr/lib/go/src/crypto/tls/tls.go",
+		"/home/wade/Documents/dictionary.dev/image.nix",
+		"/home/wade/Documents/dictionary.dev/data/sql/queries/paginate_terms.sql",
+		"/home/wade/Documents/dictionary.dev/script/dev-util/cmd/completion.go",
+		"/home/wade/Documents/dictionary.dev/script/.bin/_dev-util.bak",
+		"/home/wade/Documents/dictionary.dev/script/.bin/_dev-util",
+		"/home/wade/Documents/dictionary.dev/blah.txt",
+		"/home/wade/Documents/dictionary.dev/script/dev_setup/main.go",
+		"/home/wade/Documents/dictionary.dev/script/dev_setup/cmd/iptables.go",
+		"/home/wade/Documents/dictionary.dev/script/dev_setup/cmd/root.go",
+		"/home/wade/Documents/dictionary.dev/script/dev_setup/cmd/iptables.down.go",
+		"/home/wade/Documents/dictionary.dev/script/dev_setup/cmd/iptables.up.go",
+		"/home/wade/Documents/dictionary.dev/script/lo_firewall.js",
+		"/home/wade/Documents/dictionary.dev/util/templates_test.go",
+		"/home/wade/Documents/dictionary.dev/templates/term/term.tmpl",
+		"/home/wade/.config/sublime-text/Packages/GoSublime/CHANGELOG.md",
+		"/home/wade/Documents/dictionary.dev/templates/term/term.go.tmpl",
+		"/home/wade/Documents/dictionary.dev/migrations/migrations.go",
+		"/home/wade/go/pkg/mod/gorm.io/gorm@v1.23.6/chainable_api.go",
+		"/home/wade/Documents/dictionary.dev/handlers.go",
+		"/home/wade/Documents/dictionary.dev/templates/term.md",
+		"/home/wade/Documents/dictionary.dev/server/server.go",
+		"/home/wade/Documents/dictionary.dev/main.go",
+		"/home/wade/Documents/dictionary.dev/data/btree/btree.go",
+		"/home/wade/Documents/dictionary.dev/migrations/init.go",
+		"/home/wade/Documents/replit/extension-prototype/build.ts",
+		"/home/wade/Documents/replit/extension-prototype/extensions/plugin.tsx",
+		"/home/wade/Documents/replit/repl-it-web/app/hooks/useRefState.ts",
+		"/home/wade/Documents/replit/repl-it-web/__generated__/resolvers-types.ts",
+		"/home/wade/Documents/replit/repl-it-web/server/graph/mutations/__tests__/createRepl.test.ts",
+		"/home/wade/Documents/replit/repl-it-web/.vscode/extensions.json",
+		"/home/wade/Documents/replit/repl-it-web/node_modules/sequelize/types/lib/model.d.ts",
+		"/home/wade/Documents/replit/repl-it-web/server/graph/types/admin/index.js",
+		"/home/wade/Documents/replit/extension-prototype/compiled.js",
+		"/home/wade/Documents/replit/extension-prototype/node_modules/.bin/prettier",
+		"/home/wade/Documents/replit/extension-prototype/node_modules/lodash/toString.js",
+		"/home/wade/Documents/replit/extension-prototype/node_modules/@types/node/globals.d.ts"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "project.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/wade/Documents/filter/project.sublime-project",
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.GoSublime/HUD":
+	{
+		"height": 0.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 134.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.godoc-output":
+	{
+		"height": 122.0
+	},
+	"output.gotools_syntax_errors":
+	{
+		"height": 122.0
+	},
+	"output.language servers":
+	{
+		"height": 134.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 122.0
+	},
+	"output.terrafmt":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test2",
+				"test2.tbd"
+			],
+			[
+				"",
+				"system-module-ideas.txt"
+			],
+			[
+				"system",
+				"system-module-ideas.txt"
+			],
+			[
+				"ou",
+				"out.bp"
+			],
+			[
+				"bp.",
+				"bp.json"
+			],
+			[
+				"out",
+				"out.bp"
+			],
+			[
+				"bp",
+				"bp.json"
+			],
+			[
+				"out.bp",
+				"out.bp"
+			],
+			[
+				"out.json",
+				"out.json"
+			],
+			[
+				"test2.",
+				"test2.tbd"
+			],
+			[
+				"main",
+				"main.go"
+			],
+			[
+				"test/",
+				"test/main.go"
+			],
+			[
+				"test.",
+				"test.tbd"
+			],
+			[
+				".js",
+				"o.js"
+			],
+			[
+				"com",
+				"jscomipiler.go"
+			],
+			[
+				"js",
+				"jscomipiler.go"
+			],
+			[
+				"generator",
+				"generator/evaluator.go"
+			],
+			[
+				"fac",
+				"factorio/factorio.go"
+			],
+			[
+				"out.",
+				"out.bp"
+			],
+			[
+				"factorio.go",
+				"factorio/factorio.go"
+			],
+			[
+				"test/m",
+				"test/main.go"
+			],
+			[
+				".sub",
+				"tbd.sublime-syntax"
+			],
+			[
+				"instan",
+				"mod/InstantRobotCharging_1.1.3/-data-updates.lua"
+			],
+			[
+				".bp",
+				"out.bp"
+			],
+			[
+				".b",
+				"out.bp"
+			],
+			[
+				"exa",
+				"factorio/example.json"
+			],
+			[
+				"go",
+				"go.mod"
+			],
+			[
+				"inspe",
+				"inspector/inspect.go"
+			],
+			[
+				"blue",
+				"factorio/blueprint.go"
+			],
+			[
+				"tbd.",
+				"tbd.sublime-syntax"
+			],
+			[
+				".suh",
+				".vscode/launch.json"
+			],
+			[
+				"handlers.",
+				"handlers.go"
+			],
+			[
+				"certs.tf",
+				"tf/dev/certs.tf"
+			],
+			[
+				"certs.",
+				"tf/prod/certs.tf"
+			],
+			[
+				"iptabl",
+				"script/dev-util/cmd/iptables.go"
+			],
+			[
+				"sql.",
+				"data/sql/sql.go"
+			],
+			[
+				"han",
+				"handlers.go"
+			],
+			[
+				"man",
+				"node_modules/typescript/loc/lcl/CHS/TypeScriptLanguageService/Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll.lcl"
+			],
+			[
+				"term_",
+				"data/sql/types/term_extra.go"
+			],
+			[
+				"term_e",
+				"data/sql/types/term_extra.go"
+			],
+			[
+				"types/t",
+				"data/sql/types/term_extra.go"
+			],
+			[
+				"sql",
+				"data/sql/sql.go"
+			],
+			[
+				"queir",
+				"data/sql/queries.go"
+			],
+			[
+				"quer",
+				"data/sql/queries.go"
+			],
+			[
+				"html",
+				"templates/term/html.tmpl"
+			],
+			[
+				".tmpl",
+				"templates/term/html.tmpl"
+			],
+			[
+				"qer",
+				"data/sql/queries.go"
+			],
+			[
+				"slq",
+				"data/sql/sql.go"
+			],
+			[
+				"migrations",
+				"data/sql/migrations/migrations.go"
+			],
+			[
+				"edit.ts",
+				"js/edit.tsx"
+			],
+			[
+				"edit",
+				"js/edit.tsx"
+			],
+			[
+				"migrations.go",
+				"data/sql/migrations/migrations.go"
+			],
+			[
+				"migrations/ini",
+				"data/sql/migrations/initial/initial.go"
+			],
+			[
+				"hasn",
+				"handlers.go"
+			],
+			[
+				".tsx",
+				"js/edit.tsx"
+			],
+			[
+				"100",
+				"tf/dev/.terraform/providers/registry.terraform.io/cyrilgdn/postgresql/1.16.0/linux_amd64/terraform-provider-postgresql_v1.16.0"
+			],
+			[
+				"queries",
+				"data/sql/queries.go"
+			],
+			[
+				"uti",
+				"util/util.go"
+			],
+			[
+				"sql/types",
+				"data/sql/types/term_extra.go"
+			],
+			[
+				"que",
+				"data/sql/queries.go"
+			],
+			[
+				"queries.go",
+				"data/sql/queries.go"
+			],
+			[
+				"handlers",
+				"handlers.go"
+			],
+			[
+				"ma",
+				"main.go"
+			],
+			[
+				"sql.go",
+				"data/sql/sql.go"
+			],
+			[
+				"slq.",
+				"data/sql/sql.go"
+			],
+			[
+				"edit.tmp",
+				"templates/term/edit.tmpl"
+			],
+			[
+				"edit.t",
+				"templates/term/edit.tmpl"
+			],
+			[
+				"prettierr",
+				".prettierrc"
+			],
+			[
+				"tsconfi",
+				"tsconfig.json"
+			],
+			[
+				"pretterr",
+				".prettierrc"
+			],
+			[
+				".css",
+				"static/term.css"
+			],
+			[
+				"handl",
+				"handlers.go"
+			],
+			[
+				"bin",
+				"data/bin/bin.go"
+			],
+			[
+				"provi",
+				"tf/dev/providers.tf"
+			],
+			[
+				"sqp.go",
+				"data/sql/types/term_extra.go"
+			],
+			[
+				"bin.",
+				"data/bin/bin.go"
+			],
+			[
+				"cach",
+				"functions/cache/cache.go"
+			],
+			[
+				"cac",
+				"functions/cache/cache.go"
+			],
+			[
+				"ins",
+				"util/inspector/inspect.go"
+			],
+			[
+				"migr",
+				"secrets/migrations.json"
+			],
+			[
+				"md.t",
+				"templates/term/md.tmpl"
+			],
+			[
+				"html.",
+				"templates/term/html.tmpl"
+			],
+			[
+				".tf",
+				"tf/dev/certs.tf"
+			],
+			[
+				"runn",
+				"secrets/runner.json"
+			],
+			[
+				"blah",
+				"blah.txt"
+			],
+			[
+				"main.go",
+				"main.go"
+			],
+			[
+				"h",
+				"handlers.go"
+			],
+			[
+				"migrator.go",
+				"data/sql/migrations/migrations.go"
+			],
+			[
+				"migra",
+				"secrets/migrations.json"
+			],
+			[
+				"plugin",
+				"extensions/plugin.tsx"
+			],
+			[
+				"build",
+				"build.ts"
+			],
+			[
+				"next.",
+				"next.config.js"
+			],
+			[
+				"registercore",
+				"app/workspace/registerCorePlugins.ts"
+			],
+			[
+				"workspace/config",
+				"app/workspace/config.ts"
+			],
+			[
+				"langserver2/",
+				"app/workspace/plugins/langserver2/index.ts"
+			],
+			[
+				"createxter",
+				"app/lib/createXterm.ts"
+			],
+			[
+				"babel",
+				"babel.config.js"
+			],
+			[
+				"pages/error",
+				"pages/_error.tsx"
+			],
+			[
+				"custom/in",
+				"app/workspace/plugins/custom/index.tsx"
+			],
+			[
+				"extensions/",
+				"app/services/extension/index.ts"
+			],
+			[
+				"sema",
+				".semaphore/semaphore.yml"
+			],
+			[
+				"adduser",
+				"server/graph/mutations/addUserExtension.ts"
+			],
+			[
+				"filebuffer",
+				"app/workspace/lib/FileBuffer.d.ts"
+			],
+			[
+				"filebuff",
+				"app/workspace/lib/FileBuffer.js"
+			],
+			[
+				"extension/in",
+				"app/services/extension/index.ts"
+			],
+			[
+				"index",
+				"pages/index.tsx"
+			],
+			[
+				"config",
+				"config/config.js"
+			],
+			[
+				"index.tsx",
+				"pages/index.tsx"
+			],
+			[
+				"routers/users/in",
+				"server/routers/Users/index.js"
+			],
+			[
+				"users",
+				"server/routers/helpers/users.js"
+			],
+			[
+				"seedprodtemplates/",
+				"script/seedProdTemplates/main.sh"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"creds",
+				"config/gcp_creds.json"
+			],
+			[
+				"users/in",
+				"server/routers/Users/index.js"
+			],
+			[
+				"add",
+				"server/graph/mutations/addUserExtension.ts"
+			],
+			[
+				"user_Ex",
+				"server/models/definitions/user_extensions.ts"
+			],
+			[
+				"user",
+				"app/hooks/useRefState.ts"
+			],
+			[
+				"repls.js",
+				"server/models/definitions/repls.js"
+			],
+			[
+				"addusere",
+				"server/graph/mutations/addUserExtension.ts"
+			],
+			[
+				"types/exte",
+				"server/graph/types/extension.ts"
+			],
+			[
+				"replsstor",
+				"server/lib/replsStorage.js"
+			],
+			[
+				"replstst",
+				"server/lib/replsStorage.d.ts"
+			],
+			[
+				"stor",
+				"server/lib/storage.js"
+			],
+			[
+				"replstorage",
+				"server/lib/replsStorage.js"
+			],
+			[
+				"storage",
+				"server/lib/storage.js"
+			],
+			[
+				"replssot",
+				"server/lib/replsStorage.js"
+			],
+			[
+				"replsstorage",
+				"server/lib/replsStorage.js"
+			],
+			[
+				"user_ex",
+				"migrations/20220111222613-add_user_extensions.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 483.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 600.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 327.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
